@@ -1,2 +1,2 @@
 # Ciencia_de_Dados_Desafio1_Univesp
-Objetito éa familiarização com a ferramentas Google Cola e Bibliotecas  (Pandas, Seaborn etc) 
+Objetito é a familiarização com a ferramentas Google Colab e Bibliotecas  (Pandas, Seaborn etc) 
